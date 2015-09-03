@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "Howdy pardner! Looks like you've mistaken a git command. Did you mean \`git branch\`? See \`git --help\`. Yee-haw!"
